@@ -1,11 +1,11 @@
 ---
 {
   "type": "blog",
-  "author": "Dillon Kearns",
+  "author": "Kurt Lippert",
   "title": "Hello `elm-pages`! 🚀",
   "description": "Here's an intro for my blog post to get you interested in reading more...",
   "image": "images/article-covers/hello.jpg",
-  "published": "2019-09-21",
+  "published": "2021-02-03",
 }
 ---
 
